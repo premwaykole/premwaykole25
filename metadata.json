@@ -1,0 +1,6 @@
+{
+  "name": "QuizBets - High Stakes Trivia Arena",
+  "description": "Full-stack trivia wagering arena featuring head-to-head duels, confidence multipliers, prediction markets, and AI-generated quiz challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
